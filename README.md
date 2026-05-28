@@ -19,7 +19,7 @@ Network engineers manually SSH into devices one by one to check interfaces, rout
 4. Pulls routing table
 5. Saves everything to a report file
 ## Network Topology
-![Network Topology](3.PNG)
+![Network Topology](diagram.PNG)
 
 ## Script Output
 ![Script Output](output_screenshot.png)
